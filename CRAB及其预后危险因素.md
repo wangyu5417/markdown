@@ -2,13 +2,13 @@
 
 [TOC]
 
-
+12
 
 ## Abstract
 
-**Objective**  To identify the risk factors and outcomes associated with carbapenem-resistant Acinetobacter baumannii bloodstream infection (CRAB-BSI). **Methods**  A case-control study was conducted to retrospectively analyze patients with CRAB-BSI in a tertiary care university hospital from January 2013 to December 2017. The age, hospitalization date, and department of the case group patients were selected as the match criteria. 1-2 patients without AB-BSI were randomly selected to remain as the control group. Univariate and multivariate logistic regression analysis were performed after adjusting for patients' underlying diseases to investigate the risk factors of CRAB-BSI. The 30-day post-infection mortality was used as the endpoint of the evaluation. Univariate and multivariate Cox proportional hazard regression model were used to analyze risk factors for prognosis. **Results**  67 CRAB-BSI patients and 129 patients with organisms other than CRAB-BSI were included in this study. Multivariate logistic regression analysis implicated that previous use of carbapenem antibiotics [OR 8.79; 95% CI 2.35-32.85; P=0.001], surgery [OR 2.89; 95%CI 1.29-6.50; P=0.010], indwelling nasogastric tube [OR 4.32; 95%CI 1.38-13.52; P=0.012] and CRAB was isolated from other sites before bloodstream infection [OR 2.18; 95%CI 1.03-4.60; P=0.041] as independent risk factors associated with CRAB-BSI. 58 patients with CRAB-BSI were included in the prognostic analysis. 30-day all-cause mortality was 60.3% after infection. Multivariate Cox proportional hazard regression analysis showed that Pitt Bacteremia score >2 [hazard ratio (HR) 2.66; 95% CI 1.22-5.77; P=0.014] was an independent risk factor for the prognosis of CRAB-BSI, appropriate therapy within 5 days after infection [HR 0.23; 95% CI 0.11-0.48; P<0.001] was a protective factor for the prognosis of CRAB-BSI. **Conclusions**  CRAB-BSI in hospitalized patients is associated with previous use of carbapenem antimicrobial agents, indwelling nasogastric tube, surgery, and CRAB was isolated from other sites before bloodstream infection. Patients with Pitt bacteremia score >2 have a poor prognosis, high mortality. Timely application of appropriate antimicrobial therapy is critical. 
+**Objective**  To identify the risk factors and outcomes associated with carbapenem-resistant Acinetobacter baumannii bloodstream infection (CRAB-BSI). **Methods**  A case-control study was conducted to retrospectively analyze patients with CRAB-BSI in a tertiary care university hospital from January 2013 to December 2017. The age, hospitalization date, and department of the case group patients were selected as the match criteria. 1-2 patients without AB-BSI were randomly selected to remain as the control group. Univariate and multivariate logistic regression analysis were performed after adjusting for patients' underlying diseases to investigate the risk factors of CRAB-BSI. The 30-day post-infection mortality was used as the endpoint of the evaluation. Univariate and multivariate Cox proportional hazard regression model were used to analyze risk factors for prognosis. **Results**  67 CRAB-BSI patients and 129 patients with organisms other than CRAB-BSI were included in this study. Multivariate logistic regression analysis implicated that previous use of carbapenem antibiotics [OR 8.79; 95% CI 2.35-32.85; P=0.001], surgery [OR 2.89; 95%CI 1.29-6.50; P=0.010], indwelling nasogastric tube [OR 4.32; 95%CI 1.38-13.52; P=0.012] and CRAB was isolated from other sites before bloodstream infection [OR 2.18; 95%CI 1.03-4.60; P=0.041] as independent risk factors associated with CRAB-BSI. 58 patients with CRAB-BSI were included in the prognostic analysis. 30-day all-cause mortality was 60.3% after infection. Multivariate Cox proportional hazard regression analysis showed that Pitt Bacteremia score >2 [hazard ratio (HR) 2.66; 95% CI 1.22-5.77; P=0.014] was an independent risk factor for the prognosis of CRAB-BSI, appropriate therapy within 5 days after infection [HR 0.23; 95% CI 0.11-0.48; P<0.001] was a protective factor for the prognosis of CRAB-BSI. **Conclusions**  CRAB-BSI in hospitalized patients is associated with previous use of carbapenem antimicrobial agents, indwelling nasogastric tube, surgery, and CRAB was isolated from other sites before bloodstream infection. Patients with Pitt bacteremia score >2 have a poor prognosis, high mortality. Timely application of appropriate antimicrobial therapy is critical.
 
-**Keywords**: Acinetobacter baumannii; carbapenem resistance; bloodstream infection; outcomes; risk factors 
+**Keywords**: Acinetobacter baumannii; carbapenem resistance; bloodstream infection; outcomes; risk factors
 
 
 
@@ -33,12 +33,12 @@ The medical records of the subjects were collected from the hospital electronic 
 Diagnostic criteria for bloodstream infection: refer to the “*Diagnostic Standards for Nosocomial Infections*” published by the National Health Commission of the People's Republic of China in 2001.
 
 (1) Clinical diagnosis
-​	Fever > 38 ° C or hypothermia < 36 ° C, may be accompanied by chills, and merge one of the following: 
+​	Fever > 38 ° C or hypothermia < 36 ° C, may be accompanied by chills, and merge one of the following:
 
  	1. There are invasion portals or migratory lesions.
  	2. There are obvious symptoms of systemic poisoning without obvious infection.
  	3. There are rashes or bleeding points, hepatosplenomegaly, blood neutrophils and nuclear left shift, and there is no other reason to explain.
- 	4. Systolic pressure is less than 12 kPa (90mmHg), or more than 5.31 kPa (40mmHg) lower than the original systolic pressure. 
+ 	4. Systolic pressure is less than 12 kPa (90mmHg), or more than 5.31 kPa (40mmHg) lower than the original systolic pressure.
 
 (2) Pathogen diagnosis
 ​	*Acinetobacter baumannii* are isolated from blood culture one or more times.
@@ -69,9 +69,3 @@ The main characteristics of the case group and the control group before the star
 ### Outcomes for CRAB-BSI
 
 ​	Patients with CRAB-BSI had a mortality rate of 60.3% within 30 days after infection. The risk factors for outcome of CRAB-BSI are shown in Table 4. Univariate analysis showed Pitt bacteremia score > 2 [HR 2.20; 95% CI 1.05-4.61; P=0.036], effective antibiotics within 5 days after infection [HR 0.23; 95% CI 0.11-0.46; P < 0.001] were associated with CRAB-BSI. Variables with P < 0.2 and other clinically important variables in the univariate analysis were selected for multivariate Cox regression analysis. The variables in the model included: neurological disease, Pitt bacteremia score > 2, effective antibiotics within 5 days after infection. The results showed (Table 4), Pitt bacteremia score > 2 [hazard ratio (HR) 2.66; 95% CI 1.22-5.77; P=0.014] was an independent risk factor for in-hospital death in CRAB-BSI, and effective antibiotic treatment within 5 days after infection [HR 0.23; 95% CI 0.11-0.48; P < 0.001] was  a protective factor for in-hospital death in CRAB-BSI.
-
-
-
-
-
-  
